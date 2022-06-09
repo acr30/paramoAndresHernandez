@@ -1,4 +1,4 @@
-package sat.recruitment.api.controller;
+package sat.recruitment.api.domain;
 
 public class User {
 

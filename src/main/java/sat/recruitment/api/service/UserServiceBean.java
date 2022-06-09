@@ -5,7 +5,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
-import sat.recruitment.api.controller.User;
+import sat.recruitment.api.domain.User;
 
 import java.io.BufferedReader;
 import java.io.InputStream;

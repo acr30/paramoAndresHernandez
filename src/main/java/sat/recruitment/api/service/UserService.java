@@ -1,6 +1,6 @@
 package sat.recruitment.api.service;
 
-import sat.recruitment.api.controller.User;
+import sat.recruitment.api.domain.User;
 
 import java.util.Map;
 
